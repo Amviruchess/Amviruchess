@@ -2,7 +2,7 @@
                Mailbox Chess Engine
                       (0x88)
                         by
-                 Code Monkey King
+                 Code Amit Patel
 \************************************************/
 
 // headers
